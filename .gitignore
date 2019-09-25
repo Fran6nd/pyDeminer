@@ -1,2 +1,5 @@
 __pycache__
 .idea/
+main.build/
+*.exe
+*.pyc
